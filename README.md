@@ -1,18 +1,12 @@
 # Exploring Data with Interactive Visualizations
 
-Module 6 Challenge for GWU FinTech Bootcamp.
+*Module 6 Challenge for GWU FinTech Bootcamp.*
 
 **A Jupyter notebook that contains analysis of the housing rental market data for San Francisco.  This analysis is complete with professionally styled and formatted intereactive visualizations.  This analysis was for the years 2010-2016 and analyized the gross rents and sales price per square foot for all San Francisco neighborhoods.**
 
-![Line graph](Module_6_Challenge_san_francisco_housing/Images/bokeh_plot.png)
+![Line graph](https://github.com/jimhitchcock/Module_6_Challenge_san_francisco_housing/blob/main/Images/bokeh_plot.png)
 
-![Bar chart](Module_6_Challenge_san_francisco_housing/Images/zoomed-housing-units-by-year.png)
-
----
-
-## Module_6_Challenge_san_franciso_housing
-
-This is the Module 6 challenge for the GWU FinTech Bootcamp
+![Bar chart](https://github.com/jimhitchcock/Module_6_Challenge_san_francisco_housing/blob/main/Images/zoomed-housing-units-by-year.png)
 
 ---
 
@@ -23,7 +17,6 @@ This is the Module 6 challenge for the GWU FinTech Bootcamp
 [hvplot.pandas](https://hvplot.holoviz.org/user_guide/Plotting.html)
 
 [pathlib](https://docs.python.org/3/library/pathlib.html)
-
 
 ---
 

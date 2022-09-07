@@ -2,11 +2,11 @@
 
 Module 6 Challenge for GWU FinTech Bootcamp.
 
-*A Jupyter notebook that contains analysis of the housing rental market data for San Francisco.  This analysis is complete with professionally styled and formatted intereactive visualizations.  This analysis was for the years 2010-2016 and analyized the gross rents and sales price per square foot for all San Francisco neighborhoods.
+**A Jupyter notebook that contains analysis of the housing rental market data for San Francisco.  This analysis is complete with professionally styled and formatted intereactive visualizations.  This analysis was for the years 2010-2016 and analyized the gross rents and sales price per square foot for all San Francisco neighborhoods.**
 
-![plot](../Images/bokeh_plot.png)
+![Line graph](Module_6_Challenge_san_francisco_housing/Images/bokeh_plot.png)
 
-![plot](../Images/zoomed-housing-units-by-year.png)
+![Bar chart](Module_6_Challenge_san_francisco_housing/Images/zoomed-housing-units-by-year.png)
 
 ---
 
